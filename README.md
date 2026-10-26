@@ -43,7 +43,7 @@ The project involved analysing global employment, healthcare, and Spotify music 
 - Investigated differences in song popularity and musical features.
 
 <img src='/images/Day2_Task2.png' />
-_The box and whisker plot is used for filtering_
+* The box and whisker plot is used for filtering *
 
 [View Spotify Analysis Dashboard](https://public.tableau.com/views/SpotifyFeatureAnalysis_17901539194120/SpotifyAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
