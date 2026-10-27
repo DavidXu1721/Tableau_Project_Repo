@@ -23,7 +23,7 @@ The project involved analysing global employment, healthcare, and Spotify music 
 - Used geographical maps and charts to compare regional employment trends.
 - Created an interactive dashboard to make employment data easier to interpret.
 
-<img src='/images/Day1_Task3.png' />
+<img src='./images/Day1_Task3.png' />
 
 [View GB Employment Dashboard](https://public.tableau.com/views/GBEmploymentData_17900042069790/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -33,7 +33,7 @@ The project involved analysing global employment, healthcare, and Spotify music 
 - Applied filters to compare countries, continents, and time periods.
 - Explored how geographical and demographic differences relate to health outcomes.
 
-<img src='/images/Day2_Task1.png' />
+<img src='./images/Day2_Task1.png' />
 
 [View Global Health Dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17900789572900/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -42,7 +42,7 @@ The project involved analysing global employment, healthcare, and Spotify music 
 - Used scatter plots and comparative visualisations to identify patterns across music genres.
 - Investigated differences in song popularity and musical features.
 
-<img src='/images/Day2_Task2.png' />
+<img src='./images/Day2_Task2.png' />
 * The box and whisker plot is used for filtering *
 
 [View Spotify Analysis Dashboard](https://public.tableau.com/views/SpotifyFeatureAnalysis_17901539194120/SpotifyAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
